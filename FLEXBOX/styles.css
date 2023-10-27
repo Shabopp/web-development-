@@ -1,0 +1,21 @@
+.container{
+    height: 400px;
+    border:2px solid green;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    align-content:space-around;
+    gap:10px;
+    
+    
+    
+
+}
+.box{
+    background-color:aqua ;
+    border:1px solid brown;
+    
+}
+
